@@ -1,0 +1,184 @@
+.gamefield {
+    display: grid;
+    grid-template-areas:
+    "a b c d e"
+    "f g h i j"
+    "k l m n o"
+    "p r s t u"
+    'v w x y z'
+}
+
+.sector1 {
+    grid-area: a;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector2 {
+    grid-area: b;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector3 {
+    grid-area: c;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector4 {
+    grid-area: d;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector5 {
+    grid-area: e;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector6 {
+    grid-area: f;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector7 {
+    grid-area: g;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector8 {
+    grid-area: h;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector9 {
+    grid-area: i;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector10 {
+    grid-area: j;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector11 {
+    grid-area: k;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector12 {
+    grid-area: l;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector13 {
+    grid-area: m;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector14 {
+    grid-area: n;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector15 {
+    grid-area: o;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector16 {
+    grid-area: p;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector17 {
+    grid-area: r;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector18 {
+    grid-area: s;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector19 {
+    grid-area: t;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector20 {
+    grid-area: u;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector21 {
+    grid-area: v;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector22 {
+    grid-area: w;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector23 {
+    grid-area: x;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector24 {
+    grid-area: y;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.sector25 {
+    grid-area: z;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(0, 0, 0);
+}

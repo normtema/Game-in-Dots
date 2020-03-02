@@ -1,0 +1,14 @@
+.qwe {
+    grid-area: n;
+    min-width: 300px;
+    min-height: 700px;
+
+    background-color: rgb(154, 250, 245);
+}
+.gamefield {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 100px;
+}
